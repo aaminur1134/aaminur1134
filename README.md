@@ -1,6 +1,6 @@
 <h4 align="center">Hello! I'm</h4>
 <h1 align="center">Aminur Rahman</h1>
-<h3 align="center">Computer Engineering at Moulvibazar Polytechnic Institute.</h3>
+<h3 align="center">Hey! I'm Aminur R. I have completed a diploma in engineering. I realized that YES! I really love to make the website. I'm a front-end web developer.</h3>
 <h3 align="center">Front-end Web Developer</h3>
 
 <br>
